@@ -2,7 +2,10 @@
 Myntra is a one stop shop for all your fashion and lifestyle needs. Being India's largest e-commerce store for fashion and lifestyle products, 
 Myntra aims at providing a hassle free and enjoyable shopping experience to shoppers across the country with the widest range of brands and products on its portal.
 
-![Myntra-logo-horizontal](https://github.com/rahulrajan15/amazon_sales_Tableau_dashbaord_/assets/113009011/5b371a43-d2eb-4095-9b83-ea2d0df51998)
+![Myntra-logo-horizontal]
+![image](https://github.com/user-attachments/assets/0c8fa414-00ea-4257-a4a5-d58ab5a10712)
+
+
 
 # Project Summary
 The Myntra Sales Power BI Dashboard offers real-time insights into sales performance, customer behavior, and product trends. This interactive dashboard empowers stakeholders to make data-driven decisions by visualizing key sales metrics and customer segmentation. 
@@ -19,7 +22,7 @@ Datasets : Kaggle
 4) Improved decision-making with accurate KPIs, achieving 95% accuracy in tracking conversion rates and average order value.
 5) Implemented interactive filters, increasing user interactivity and understanding of sales patterns.
 
-![myntra_dashboard](https://github.com/rahulrajan15/amazon_sales_Tableau_dashbaord_/assets/113009011/0fc1686f-fc4b-40dc-95b8-527521c5bf8f)
+![myntra_dashboard]
 ![image](https://github.com/user-attachments/assets/e109333e-936b-4c9c-9213-ac06e7f099f0)
 
 # SignIn to Power Bi Desktop and copy paste the below link in browser to view.
